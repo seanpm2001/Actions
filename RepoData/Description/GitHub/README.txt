@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+:octocat:🌊️ A list of GitHub actions, and workflows for other Git-sites, along with related information for @seanpm2001. Additionally, it is also a redirect to :seanpm2001:GitHub-Workflows
